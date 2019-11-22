@@ -1,0 +1,2 @@
+iterable: list, dictionary, tuple, set, string
+iterate: one by one check each item in the collection
